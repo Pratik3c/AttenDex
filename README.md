@@ -14,7 +14,7 @@ This repository contains a simple C program for managing student attendance. The
 
 ## Getting Started
 
-1) **Clone the Repository:** git clone https://github.com/username/repo.git 
+1) **Clone the Repository:** git clone https://github.com/Pratik3c/AttenDex
 2) **Compile and Run:** gcc main.c -o attendance_system  ; ./attendance_system
 
 ## Usage
